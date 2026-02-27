@@ -31,7 +31,7 @@
 5.Сформированный список возвращается в main  выводим список
 
 Тестирование
-
+<img width="455" height="493" alt="Image" src="https://github.com/user-attachments/assets/38cff397-8e31-4fc0-8196-99375bd9f7c6" />
 
 
 Задание 2
@@ -57,4 +57,5 @@
 6.Вывод результата
 
 Тестирование
+<img width="355" height="328" alt="Image" src="https://github.com/user-attachments/assets/14d8a518-9db9-4581-bd88-aad24cb1feae" />
 
